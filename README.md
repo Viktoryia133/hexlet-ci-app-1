@@ -1,12 +1,14 @@
+[![workflow](https://github.com/Viktoryia133/hexlet-ci-app-1/actions/workflows/hexlet.yml/badge.svg)](https://github.com/Viktoryia133/hexlet-ci-app-1/actions/workflows/hexlet.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
 
-* NodeJS >= 18
-* NPM >= 6.x
-* Make
+- NodeJS >= 18
+- NPM >= 6.x
+- Make
 
 ## Using
 
